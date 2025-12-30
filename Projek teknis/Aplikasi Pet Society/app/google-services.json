@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65232696952",
+    "project_id": "petsociety-3d064",
+    "storage_bucket": "petsociety-3d064.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65232696952:android:8ed3374ee1b41b492e9f8d",
+        "android_client_info": {
+          "package_name": "org.dm.petsociety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2v3zhmw_znZ5P4S1IfG_NTt5erhg94mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
