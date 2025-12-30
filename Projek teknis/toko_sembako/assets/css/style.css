@@ -1,0 +1,46 @@
+
+/* Atur judul hanya 1 baris dengan ellipsis */
+.card-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 1rem; /* ukuran bisa disesuaikan */
+}
+
+
+/* Agar card produk fleksibel dan tombol footer tidak tertutup */
+.product-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-body {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem 0.5rem;
+    min-height: 120px; /* sesuaikan untuk ruang konten */
+}
+
+html {
+    font-size: 1vw;
+}
+
+@media (max-width: 576px) {
+    html {
+        font-size: 2.5vw;
+    }
+}
+
+.card-body,
+.card-footer,
+.card-title,
+.form-select,
+.btn {
+    font-size: 1rem;
+}
+
+.card-body p {
+    margin-bottom: 0;
+}

@@ -1,0 +1,18 @@
+/* Styling dasar seperti btn-success */
+.custom-select-success {
+  background-color: #28a745;  /* Hijau btn-success */
+  color: white;
+  border-color: #28a745;
+}
+
+/* Saat hover */
+.custom-select-success:hover {
+  background-color: #218838; /* Hijau gelap btn-success hover */
+  border-color: #1e7e34;
+  color: white;
+}
+
+/* Pilihan dropdown di dalam select (opsional, karena tidak semua browser mendukung styling) */
+.custom-select-success option {
+  color: black; /* Biar opsi tetap terbaca */
+}
