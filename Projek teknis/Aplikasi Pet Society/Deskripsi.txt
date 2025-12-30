@@ -1,0 +1,52 @@
+🐶 Pet Society: Platform Komunitas & Layanan Hewan Terpadu
+Pet Society adalah aplikasi seluler berbasis Android yang dirancang sebagai ekosistem digital untuk menghubungkan pemilik hewan peliharaan, penyelamat (shelter), dan tenaga profesional dalam satu wadah sosial yang interaktif.
+
+🌟 Tujuan Aplikasi
+Membangun Komunitas: Menjadi media sosial khusus bagi pemilik hewan untuk berbagi momen melalui postingan komunitas.
+
+Memfasilitasi Sosialisasi Hewan: Fitur Playdate memudahkan pemilik mencari teman bermain bagi hewan mereka dengan sistem chat langsung.
+
+Mendukung Kesejahteraan Hewan: Mempercepat proses adopsi dengan menghubungkan shelter langsung kepada calon adopter.
+
+Akses Profesional yang Mudah: Menyediakan katalog layanan ahli seperti dokter hewan dan groomer profesional.
+
+📋 Fitur Utama
+Sistem Multi-Peran: Login khusus untuk Pet Owner, Shelter/Rescuer, atau Expert/Business.
+
+Manajemen Profil & Hewan: Pengguna dapat mengunggah detail hewan (ras, usia, foto) serta mengelola postingan pribadi.
+
+Chat Real-time: Sistem komunikasi universal antar peran untuk koordinasi adopsi, layanan, atau janji temu.
+
+Autologin & Sesi Persisten: Aplikasi mengingat akun yang pernah masuk, memudahkan akses kembali tanpa login berulang.
+
+Cloud Storage: Integrasi dengan Cloudinary untuk penyimpanan foto hewan dan profil yang aman di awan.
+
+🕹️ Petunjuk Pemakaian
+1. Pendaftaran & Login
+Registrasi: Pilih peran Anda (Owner, Shelter, atau Expert) dan isi data diri lengkap.
+
+Login: Masukkan email dan kata sandi. Jika lupa, gunakan fitur Forgot Password untuk menerima instruksi reset melalui email.
+
+Login Otomatis: Akun yang berhasil login akan muncul di daftar akun Google saat Anda mengklik "Continue with Google" di masa mendatang.
+
+2. Berinteraksi di Komunitas (Pet Owner)
+Posting: Gunakan tombol tambah di beranda untuk membagikan foto dan cerita hewan Anda.
+
+Mencari Playdate: Masuk ke tab Playdate, pilih hewan yang disukai, dan klik "Chat Owner" untuk mengajak bertemu.
+
+3. Mengelola Adopsi (Shelter/Rescuer)
+Tambah Hewan: Unggah foto dan berikan informasi status ketersediaan hewan peliharaan.
+
+Hapus Postingan: Tekan dan tahan (long press) pada gambar hewan di profil Anda untuk memunculkan pilihan hapus.
+
+Status Tersedia: Pantau label hijau "Tersedia" atau merah "Tdk Tersedia" pada kartu hewan di beranda untuk informasi publik.
+
+4. Menawarkan Layanan (Expert/Business)
+Kelola Layanan: Daftarkan jasa profesional Anda (misal: Dokter Hewan) dengan harga dan lokasi yang jelas.
+
+Komunikasi: Terima pesan langsung dari pemilik hewan yang membutuhkan konsultasi melalui fitur chat terintegrasi.
+
+5. Keluar Aplikasi
+Logout: Tekan tombol Logout di halaman profil masing-masing peran untuk mengakhiri sesi dan kembali ke layar awal.
+
+Aplikasi ini menggabungkan kemudahan teknologi dengan kepedulian terhadap hewan peliharaan, menjadikannya platform satu pintu bagi setiap kebutuhan pecinta hewan.
