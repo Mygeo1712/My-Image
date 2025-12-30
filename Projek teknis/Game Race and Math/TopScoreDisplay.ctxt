@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TopScoreDisplay
+comment1.params=topScore
+comment1.target=TopScoreDisplay(long)
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=topScore
+comment3.target=void\ setTopScore(long)
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TopScoreImageActor
+comment1.params=image
+comment1.target=TopScoreImageActor(greenfoot.GreenfootImage)
+comment2.params=newImage
+comment2.target=void\ setTopScoreImage(greenfoot.GreenfootImage)
+numComments=3

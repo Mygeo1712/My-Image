@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Life
+comment1.params=
+comment1.target=Life()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ loseLife()
+comment3.text=\r\n\ Mengurangi\ nyawa\ pemain\ sebesar\ 1.\r\n\ Jika\ nyawa\ habis,\ gambar\ "EndLife"\ akan\ ditampilkan.\r\n
+comment4.params=
+comment4.target=void\ reset()
+comment4.text=\r\n\ Mengatur\ ulang\ nyawa\ ke\ jumlah\ maksimum\ (3)\ dan\ memperbarui\ gambar.\r\n
+comment5.params=
+comment5.target=void\ updateLifeImage()
+comment5.text=\r\n\ Perbarui\ gambar\ nyawa\ sesuai\ jumlah\ nyawa\ yang\ tersisa.\r\n
+comment6.params=
+comment6.target=int\ getRemainingLives()
+comment6.text=\r\n\ Getter\ untuk\ jumlah\ nyawa\ yang\ tersisa.\r\n
+numComments=7
